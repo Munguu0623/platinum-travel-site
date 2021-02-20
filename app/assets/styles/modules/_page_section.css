@@ -9,4 +9,9 @@
         background-color: $mainBlue;
         color: #fff;
     }
+    
+    &--testimonials{
+        background-color: #e0e6ef;
+    }
+
 }
