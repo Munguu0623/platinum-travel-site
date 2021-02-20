@@ -14,7 +14,6 @@
         padding-left: 0;
         padding-right: 0;
 
-
         @mixin atMedium {
             padding-left: 18px;
             padding-right: 18px;
@@ -23,7 +22,6 @@
     &--no-padding-until-large{
         padding-left: 0;
         padding-right: 0;
-
 
         @mixin atLarge {
             padding-left: 18px;
@@ -37,10 +35,10 @@
     }
 
     &--b-margin{
-        margin-bottom: 1rem;
+        margin-bottom: 0;
     }
 
     @mixin atMedium {
-        margin-bottom: 4rem;
+        margin-bottom: 0;
     }
 }

@@ -16,6 +16,7 @@
   }
 
   &__title {
+    padding-top: 60px;
     font-weight: 300;
     color: $mainBlue;
     margin: 0;
